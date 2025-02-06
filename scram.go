@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/xdg-go/stringprep"
+	"github.com/pritam-acquia/stringprep"
 )
 
 // HashGeneratorFcn abstracts a factory function that returns a hash.Hash

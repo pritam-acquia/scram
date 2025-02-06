@@ -21,7 +21,7 @@ Channel binding and extensions are not (yet) supported.
 
     package main
 
-    import "github.com/xdg-go/scram"
+    import "github.com/pritam-acquia/scram"
 
     func main() {
         // Get Client with username, password and (optional) authorization ID.
